@@ -1,0 +1,7 @@
+USERCOMMAND
+_mdnsresponder/usr/sbin/mDNSResponder
+wangyingjian/Applications/Google
+wangyingjian/Applications/Google
+wangyingjian/System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+wangyingjian/Users/wangyingjian/Library/Application
+wangyingjian/Users/wangyingjian/Library/Application

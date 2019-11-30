@@ -1,0 +1,297 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+wangyingjian      7795   6.6  0.2  4549852  14008   ??  S    291019   20:55.91 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --service-sandbox-type=network --service-request-channel-token=15277666914908689361
+wangyingjian      7785   3.7  0.4  5106864  36372   ??  S    291019   20:20.19 /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+_mdnsresponder     162   1.8  0.1  4335472   6972   ??  Ss   221019   12:41.16 /usr/sbin/mDNSResponder
+wangyingjian     21786   0.9  1.1  5992268  89920   ??  S    12:57下午   0:20.97 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper --type=renderer --no-sandbox --disable-accelerated-video-decode --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --field-trial-handle=1718379636,17539408980682550832,11516440282555393522,131072 --disable-features=OutOfBlinkCors --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --locales-dir-path=/Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents//bin/locales --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --product-version=Valve Steam Client --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=328559788461989317 --renderer-client-id=12
+wangyingjian       284   0.6  0.2  4999124  15892   ??  S    221019   14:08.01 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+wangyingjian     21713   0.6  1.2  4957060  96736   ??  S    12:24下午   7:11.29 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx -skipinitialbootstrap
+_netbios         22256   0.2  0.1  4309400   9320   ??  SNs   6:48下午   0:02.38 /usr/sbin/netbiosd
+wangyingjian     21735   0.1  1.3  6162476 111824   ??  S    12:25下午   0:15.97 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper --type=renderer --no-sandbox --disable-accelerated-video-decode --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --field-trial-handle=1718379636,17539408980682550832,11516440282555393522,131072 --disable-features=OutOfBlinkCors --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --locales-dir-path=/Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents//bin/locales --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --product-version=Valve Steam Client --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=10849236251593142319 --renderer-client-id=6
+wangyingjian      8965   0.1  1.2  6560504 101848   ??  S     11119   63:24.53 /Applications/Xcode.app/Contents/MacOS/Xcode
+wangyingjian     21728   0.1  0.3  5260828  26716   ??  S    12:24下午   5:09.72 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper --type=gpu-process --field-trial-handle=1718379636,17539408980682550832,11516440282555393522,131072 --disable-features=OutOfBlinkCors --no-sandbox --locales-dir-path=/Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents//bin/locales --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --product-version=Valve Steam Client --lang=zh-Hans-CN --gpu-preferences=KAAAAAAAAAAhAAAAAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgBAAAgAAAAAAEAAAAAAAAIAQAAAAAAABABAAAAAAAAGAEAAAAAAAAgAQAAAAAAACgBAAAAAAAAMAEAAAAAAAA4AQAAAAAAAEABAAAAAAAASAEAAAAAAABQAQAAAAAAAFgBAAAAAAAAYAEAAAAAAABoAQAAAAAAAHABAAAAAAAAeAEAAAAAAACAAQAAAAAAAIgBAAAAAAAAkAEAAAAAAACYAQAAAAAAAKABAAAAAAAAqAEAAAAAAACwAQAAAAAAALgBAAAAAAAAwAEAAAAAAADIAQAAAAAAANABAAAAAAAA2AEAAAAAAADgAQAAAAAAAOgBAAAAAAAA8AEAAAAAAAD4AQAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAGAAAAEAAAAAAAAAAAAAAABwAAABAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAAAAAAAKAAAAEAAAAAAAAAAAAAAACwAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAAAAAAOAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAYAAAAQAAAAAAAAAAEAAAAHAAAAEAAAAAAAAAABAAAACAAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAAAQAAAA4AAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACgAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABgAAAAAAAAAQAAAAAAAAAAYAAAAGAAAAEAAAAAAAAAAGAAAABwAAABAAAAAAAAAABgAAAAgAAAAQAAAAAAAAAAYAAAAKAAAAEAAAAAAAAAAGAAAACwAAABAAAAAAAAAABgAAAA0AAAAQAAAAAAAAAAYAAAAOAAAA --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --service-request-channel-token=13420229818273098265
+wangyingjian     22277   0.0  0.0  4270128    768 s000  S+    6:58下午   0:00.01 ./a.out
+wangyingjian     22271   0.0  0.1  4305868  12208   ??  Ss    6:49下午   0:00.04 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.ImageDecoder.xpc/Contents/MacOS/com.apple.Safari.ImageDecoder
+wangyingjian     22270   0.0  0.2  4338716  14468   ??  S     6:49下午   0:00.10 /usr/libexec/keyboardservicesd
+wangyingjian     22269   0.0  0.6  4529728  46844   ??  S     6:49下午   0:01.20 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+root             22265   0.0  0.1  4333156   6688   ??  Ss    6:48下午   0:00.05 /usr/libexec/rtcreportingd
+_captiveagent    22257   0.0  0.1  4306968   5752   ??  Ss    6:48下午   0:00.03 /usr/libexec/captiveagent
+wangyingjian     22253   0.0  0.1  4332924   6052   ??  Ss    6:48下午   0:00.08 /System/Library/SystemConfiguration/EAPOLController.bundle/Contents/Resources/eapolclient -i en0 -u 501 -g 20
+root             22237   0.0  0.1  4306432   5492   ??  Ss    5:54下午   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+root             22236   0.0  0.1  4335988   6280   ??  Ss    5:54下午   0:00.08 /usr/sbin/systemsoundserverd
+root             22233   0.0  0.1  4305224   4312   ??  Ss    5:53下午   0:00.01 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+wangyingjian     22232   0.0  0.1  4304836   8332   ??  S     5:53下午   0:00.03 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+wangyingjian     22230   0.0  0.1  4335472  12364   ??  Ss    5:24下午   0:00.05 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/XPCServices/com.apple.CommerceKit.TransactionService.xpc/Contents/MacOS/com.apple.CommerceKit.TransactionService
+wangyingjian     22228   0.0  0.1  4305896  10828   ??  S     5:24下午   0:00.04 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_notify_agent
+_softwareupdate  22226   0.0  0.1  4332360   9896   ??  Ss    5:24下午   0:00.06 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_download_service
+wangyingjian     22224   0.0  0.2  4359348  18344   ??  Ss    5:24下午   0:00.22 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomodel.xpc/Contents/MacOS/com.apple.photomodel
+wangyingjian     22222   0.0  0.1  4394300  11548   ??  S     5:24下午   0:00.32 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+wangyingjian     22203   0.0  0.2  4333140  13636   ??  S     5:23下午   0:00.22 /System/Library/CoreServices/mapspushd
+root             22198   0.0  0.1  4333280   6376   ??  Ss    5:23下午   0:00.05 /usr/bin/sysdiagnose
+wangyingjian     22197   0.0  0.1  4331408   6376   ??  S     5:23下午   0:00.04 /System/Library/PrivateFrameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+_assetcache      22196   0.0  0.1  4336740  10436   ??  Ss    5:23下午   0:00.11 /usr/libexec/AssetCache/AssetCache
+wangyingjian     22192   0.0  0.2  4332364  13320   ??  S     5:23下午   0:00.19 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+wangyingjian     22188   0.0  0.3  4374488  25376   ??  S     5:23下午   0:00.76 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+wangyingjian     22187   0.0  0.1  4333344   5648   ??  S     5:23下午   0:00.21 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+wangyingjian     22185   0.0  0.2  4331904  20128   ??  S     5:23下午   0:00.22 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/Frameworks/CloudPhotosConfigurationXPC.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+wangyingjian     22184   0.0  0.3  4375764  24084   ??  S     5:23下午   0:00.59 /System/Library/CoreServices/cloudphotosd.app/Contents/MacOS/cloudphotosd
+wangyingjian     22183   0.0  0.2  4359616  19108   ??  Ss    5:23下午   0:00.34 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomoments.xpc/Contents/MacOS/com.apple.photomoments
+wangyingjian     22182   0.0  0.1  4332908   6220   ??  S     5:23下午   0:00.08 /System/Library/CoreServices/ScopedBookmarkAgent
+wangyingjian     22181   0.0  0.2  4332084  16176   ??  S     5:23下午   0:00.08 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+wangyingjian     22180   0.0  0.1  4369536   9048   ??  S     5:23下午   0:01.25 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Support/photolibraryd
+wangyingjian     22178   0.0  0.1  4333256   9236   ??  S     5:23下午   0:00.07 /usr/libexec/networkserviceproxy
+root             22177   0.0  0.1  4305536   9468   ??  Ss    5:23下午   0:00.07 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+root             22176   0.0  0.1  4337680   6480   ??  Ss    5:23下午   0:00.10 /usr/libexec/dprivacyd
+wangyingjian     22175   0.0  0.1  4351000   7748   ??  S     5:23下午   0:02.06 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+_softwareupdate  22174   0.0  0.2  4574060  14892   ??  Ss    5:23下午   0:15.38 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+wangyingjian     22173   0.0  0.3  4373296  27540   ??  S     5:23下午   0:02.46 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+wangyingjian     22172   0.0  0.1  4334008   6772   ??  S     5:23下午   0:00.13 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+root             22170   0.0  0.1  4333132   7588   ??  Ss    5:23下午   0:00.17 /usr/sbin/ocspd
+wangyingjian     22169   0.0  0.2  4337212  12980   ??  S     5:23下午   0:00.32 /usr/libexec/knowledge-agent
+root             22166   0.0  0.1  4333200   7572   ??  Ss    5:23下午   0:00.17 /usr/libexec/nehelper
+_ctkd            22164   0.0  0.1  4298240   8084   ??  Ss    5:23下午   0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -s
+wangyingjian     22163   0.0  0.1  4306452   8712   ??  S     5:23下午   0:00.03 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+wangyingjian     22162   0.0  0.1  4306008   8932   ??  S     5:23下午   0:00.03 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+root             22161   0.0  0.1  4305060   9652   ??  Ss    5:23下午   0:00.04 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root             22160   0.0  0.1  4305976   8620   ??  Ss    5:23下午   0:00.03 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+_analyticsd      22159   0.0  0.1  4333384   8064   ??  Ss    5:23下午   0:00.17 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+_nsurlstoraged   22156   0.0  0.1  4305300   6732   ??  Ss    5:23下午   0:00.29 /usr/libexec/nsurlstoraged --privileged
+root             22129   0.0  0.1  4304936   4616   ??  Ss    5:19下午   0:00.10 /usr/libexec/sysmond
+wangyingjian     22114   0.0  0.1  4365896   6392   ??  S     5:17下午   0:00.25 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/atsd
+wangyingjian     22113   0.0  0.1  4343728  10228   ??  S     5:17下午   0:00.70 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+wangyingjian     22112   0.0  0.1  4305224   5132   ??  S     5:17下午   0:00.09 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root             22104   0.0  0.2  4337584  14640   ??  Ss    5:17下午   0:01.33 /usr/libexec/mobileassetd
+wangyingjian     22102   0.0  0.4  4340560  31348   ??  Ss    5:17下午   0:01.69 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+wangyingjian     22101   0.0  0.5  4376780  43316   ??  S     5:17下午   0:08.36 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+wangyingjian     22099   0.0  1.0  4513444  82608   ??  S     5:17下午   0:11.65 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+root             22098   0.0  0.2  4338160  14372   ??  Ss    5:17下午   0:00.26 /usr/libexec/coreduetd
+wangyingjian     22091   0.0  0.2  4332356  14908   ??  Ss    5:15下午   0:00.09 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.MobileDocumentsFileProvider
+wangyingjian     22089   0.0  0.2  4353236  13804   ??  S     5:14下午   0:00.26 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+wangyingjian     22088   0.0  0.1  4333568   6820   ??  S     5:14下午   0:00.32 /usr/libexec/secinitd
+wangyingjian     22087   0.0  0.3  4861080  28324   ??  Ss    5:14下午   0:00.57 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+wangyingjian     22086   0.0  0.1  4336564  12020   ??  Ss    5:13下午   0:00.15 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+wangyingjian     22085   0.0  0.2  4338828  18676   ??  S     5:13下午   0:00.53 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+_locationd       22084   0.0  0.0  4296700    892   ??  S     5:13下午   0:00.03 /usr/sbin/cfprefsd agent
+root             22083   0.0  0.2  4333520  20872   ??  Ss    5:13下午   0:00.29 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root             22082   0.0  0.0  4287944   4172   ??  Ss    5:13下午   0:00.01 /usr/libexec/keybagd -t 15
+root             22081   0.0  0.1  4306360   5144   ??  Ss    5:13下午   0:00.04 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+wangyingjian     22080   0.0  0.1  4332712  11732   ??  S     5:13下午   0:00.44 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+wangyingjian     22078   0.0  0.2  4343028  17012   ??  S     5:13下午   0:01.15 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+root             22077   0.0  0.1  4332284  12104   ??  Ss    5:13下午   0:00.11 /usr/sbin/WirelessRadioManagerd
+wangyingjian     22075   0.0  0.1  4333576   9284   ??  S     5:13下午   0:01.22 /usr/libexec/nsurlstoraged
+wangyingjian     22072   0.0  0.3  4332536  22688   ??  S     5:13下午   0:00.14 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History
+wangyingjian     22070   0.0  0.1  4305608   6192   ??  S     5:13下午   0:00.04 /usr/libexec/SidecarRelay
+wangyingjian     22068   0.0  0.4  4343816  32456   ??  S     5:13下午   0:01.78 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+wangyingjian     22066   0.0  0.3  4348284  28804   ??  S     5:13下午   0:00.66 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+wangyingjian     22064   0.0  0.1  4307168   5668   ??  S     5:13下午   0:00.12 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+wangyingjian     22061   0.0  0.2  4331644  13356   ??  S     5:13下午   0:00.09 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+wangyingjian     22059   0.0  0.2  4346332  14184   ??  S     5:13下午   0:04.66 /usr/libexec/secd
+wangyingjian     22058   0.0  0.3  4344956  28776   ??  S     5:13下午   0:00.26 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+root             22056   0.0  0.1  4307440   4652   ??  Ss    5:12下午   0:00.08 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+wangyingjian     22053   0.0  0.2  4304708  17424   ??  S     5:12下午   0:00.23 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+root             22051   0.0  0.1  4334796   7768   ??  Ss    5:12下午   0:00.96 /usr/libexec/sandboxd
+wangyingjian     22050   0.0  0.1  4338472   8872   ??  S     5:12下午   0:00.54 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+wangyingjian     22046   0.0  0.4  4340288  29604   ??  S     5:12下午   0:00.69 /System/Library/PrivateFrameworks/MessagesKit.framework/Resources/soagent.app/Contents/MacOS/soagent
+root             22039   0.0  0.1  4332464   7532   ??  Ss    5:12下午   0:00.12 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+_fpsd            22030   0.0  0.1  4308940   7808   ??  Ss    5:12下午   0:00.24 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+wangyingjian     22029   0.0  0.1  4343660   9136   ??  S     5:12下午   0:00.41 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+wangyingjian     21733   0.0  0.6  5830960  54296   ??  S    12:25下午   0:02.19 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper --type=renderer --no-sandbox --disable-accelerated-video-decode --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --field-trial-handle=1718379636,17539408980682550832,11516440282555393522,131072 --disable-features=OutOfBlinkCors --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --locales-dir-path=/Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents//bin/locales --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --product-version=Valve Steam Client --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=18394225809200408750 --renderer-client-id=4
+wangyingjian     21729   0.0  0.3  4542040  23996   ??  S    12:24下午   0:28.96 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper --type=utility --field-trial-handle=1718379636,17539408980682550832,11516440282555393522,131072 --disable-features=OutOfBlinkCors --lang=en-US --service-sandbox-type=network --no-sandbox --locales-dir-path=/Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents//bin/locales --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --product-version=Valve Steam Client --lang=zh-Hans-CN --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt --service-request-channel-token=2119635969049740726
+wangyingjian     21727   0.0  0.2  4477204  16684   ??  S    12:24下午   0:00.22 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper --monitor-self-annotation=ptype=crashpad-handler --type=crashpad-handler --max-uploads=5 --max-db-size=20 --max-db-age=5 --database=/private/tmp/dumps --url=http://crash.steampowered.com/submit --annotation=platform=macos --annotation=product=cefwebhelper --annotation=version=1573176642 --handshake-fd=11
+wangyingjian     21723   0.0  0.5  4847268  44432   ??  S    12:24下午   3:30.52 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/Frameworks/Steam Helper.app/Contents/MacOS/Steam Helper -lang=zh_CN -cachedir=/Users/wangyingjian/Library/Application Support/Steam/config/htmlcache -steampid=21713 -buildid=1573176642 -steamid=0 -steamuniverse=Public -clientui=/Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/clientui --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --enable-media-stream --enable-smooth-scrolling --disable-accelerated-video-decode --no-sandbox --log-file=/Users/wangyingjian/Library/Application Support/Steam/logs/cef_log.txt
+wangyingjian     21722   0.0  0.0  4426416    192   ??  Ss   12:24下午   0:00.00 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/steam_osx -skipinitialbootstrap
+wangyingjian     21700   0.0  0.1  4287740   4448   ??  S    12:24下午   0:03.05 /Users/wangyingjian/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/ipcserver
+wangyingjian     21609   0.0  0.2  5006728  17244   ??  Ss   日02下午   0:09.37 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+root             21149   0.0  0.0  4306184   1164   ??  Ss   日08上午   0:01.18 /System/Library/PrivateFrameworks/PerformanceAnalysis.framework/Versions/A/XPCServices/com.apple.PerformanceAnalysis.animationperfd.xpc/Contents/MacOS/com.apple.PerformanceAnalysis.animationperfd
+wangyingjian     21121   0.0  0.1  4342700   7932   ??  S    日08上午   0:00.95 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+wangyingjian     20941   0.0  0.1  4859968   7052   ??  S    六05下午   0:00.35 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --enable-auto-reload --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=16432350603597048488 --renderer-client-id=343 --no-v8-untrusted-code-mitigations --seatbelt-client=96
+wangyingjian     19953   0.0  0.0  4304660    912   ??  S    六01下午   0:00.24 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+root             19932   0.0  0.1  4333568   6264   ??  Ss   六01下午   0:13.68 /usr/libexec/PerfPowerServices
+wangyingjian     19244   0.0  0.3 107070232  26148   ??  Ss   五05下午   0:28.36 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+wangyingjian     19202   0.0  0.9 109883192  74924   ??  Ss   五05下午   0:59.26 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+wangyingjian     18362   0.0  0.1  4356880   6532   ??  S    五02下午   0:02.79 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+wangyingjian     17694   0.0  0.1  4338680   4388   ??  S    四11下午   0:02.73 /usr/libexec/nsurlsessiond
+wangyingjian     16975   0.0  0.0  4334996   1320   ??  S    四09下午   0:11.90 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+wangyingjian     16124   0.0  0.2  4901900  16476   ??  S    四07下午   0:01.52 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --extension-process --enable-auto-reload --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=662517695891512745 --renderer-client-id=303 --no-v8-untrusted-code-mitigations --seatbelt-client=96
+wangyingjian     15532   0.0  0.0  4346200   1624   ??  Ss   三03下午   0:13.57 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+wangyingjian     15410   0.0  0.0  4340760   1512   ??  Ss   三02下午   0:02.73 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+wangyingjian     15407   0.0  0.4  5294084  37680   ??  S    三02下午   3:25.58 /Applications/Mail.app/Contents/MacOS/Mail
+wangyingjian     15329   0.0  0.1  5163156   8004   ??  S    三02下午   0:44.08 /Applications/TextEdit.app/Contents/MacOS/TextEdit
+wangyingjian     15220   0.0  4.8 108685736 400644   ??  Ss   三01下午   3:27.78 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+wangyingjian     12715   0.0  0.1  5050668   8776   ??  S    二02下午   0:08.81 /Applications/iZip.app/Contents/MacOS/iZip -psn_0_2785960
+wangyingjian     12614   0.0  0.2  7624172  18188   ??  S    二10上午   1:10.26 /Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word -psn_0_2732699
+wangyingjian     12560   0.0  0.3 107256144  22308   ??  Ss   二10上午   1:57.04 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+wangyingjian     12524   0.0  0.0  4339672   2064   ??  S    二10上午   0:01.76 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+wangyingjian     11007   0.0  8.2 93175928 684300   ??  Ss    41119    5:05.67 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+wangyingjian     10911   0.0  0.0  4296508    748 s000  S     41119    0:03.73 -bash
+root             10909   0.0  0.0  4304644    184 s000  Ss    41119    0:00.11 login -pf wangyingjian
+wangyingjian     10339   0.0  0.1  4882300   5056   ??  S     31119    0:01.76 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --extension-process --enable-auto-reload --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=962491121033466112 --renderer-client-id=122 --no-v8-untrusted-code-mitigations --seatbelt-client=82
+wangyingjian      9589   0.0  0.0  4347652   1676   ??  Ss    31119    0:13.91 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+wangyingjian      9137   0.0  2.4  5229964 198176   ??  S     21119   12:55.50 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+wangyingjian      9119   0.0  0.1  4881300   4684   ??  S     21119    0:02.59 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --enable-auto-reload --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=2037628744221289639 --renderer-client-id=107 --no-v8-untrusted-code-mitigations --seatbelt-client=82
+wangyingjian      9118   0.0  0.5  4957616  40988   ??  S     21119    1:18.31 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --extension-process --enable-auto-reload --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=8542697524301310236 --renderer-client-id=106 --no-v8-untrusted-code-mitigations --seatbelt-client=82
+wangyingjian      8987   0.0  0.1  4365068   4780   ??  S     11119    0:15.27 /Applications/Xcode.app/Contents/SharedFrameworks/XCBuild.framework/Versions/A/PlugIns/XCBBuildService.bundle/Contents/MacOS/XCBBuildService
+wangyingjian      8985   0.0  0.2  4656284  17248   ??  Ss    11119   17:12.95 /Applications/Xcode.app/Contents/SharedFrameworks/SourceKit.framework/Versions/A/XPCServices/com.apple.dt.SKAgent.xpc/Contents/MacOS/com.apple.dt.SKAgent
+wangyingjian      8975   0.0  0.0  4341932    548   ??  Ss    11119    0:00.30 /Applications/Xcode.app/Contents/PlugIns/XcodeBuiltInExtensions.appex/Contents/MacOS/XcodeBuiltInExtensions
+wangyingjian      8974   0.0  0.0  4331520    600   ??  Ss    11119    0:00.30 /Applications/Xcode.app/Contents/PlugIns/XCDocumenterExtension.appex/Contents/MacOS/XCDocumenterExtension
+wangyingjian      8973   0.0  0.0  4335828    568   ??  S     11119    0:00.24 /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/GPUToolsPlatform/GPUToolsAgent.app/Contents/MacOS/GPUToolsAgent
+wangyingjian      8972   0.0  0.0  4343128    536   ??  Ss    11119    0:00.31 /Applications/Xcode.app/Contents/PlugIns/GitHubEnterpriseHostBuiltInExtension.appex/Contents/MacOS/GitHubEnterpriseHostBuiltInExtension
+wangyingjian      8971   0.0  0.0  4343048    560   ??  Ss    11119    0:00.31 /Applications/Xcode.app/Contents/PlugIns/BitbucketServerHostBuiltInExtension.appex/Contents/MacOS/BitbucketServerHostBuiltInExtension
+wangyingjian      8970   0.0  0.0  4343032    556   ??  Ss    11119    0:00.31 /Applications/Xcode.app/Contents/PlugIns/GitLabHostBuiltInExtension.appex/Contents/MacOS/GitLabHostBuiltInExtension
+wangyingjian      8969   0.0  0.0  4343092    544   ??  Ss    11119    0:00.31 /Applications/Xcode.app/Contents/PlugIns/GitHubHostBuiltInExtension.appex/Contents/MacOS/GitHubHostBuiltInExtension
+wangyingjian      8968   0.0  0.0  4343056    572   ??  Ss    11119    0:00.30 /Applications/Xcode.app/Contents/PlugIns/GitLabSelfHostBuiltInExtension.appex/Contents/MacOS/GitLabSelfHostBuiltInExtension
+wangyingjian      8967   0.0  0.0  4343116    544   ??  Ss    11119    0:00.31 /Applications/Xcode.app/Contents/PlugIns/BitbucketHostBuiltInExtension.appex/Contents/MacOS/BitbucketHostBuiltInExtension
+wangyingjian      8956   0.0  2.4 90826932 198632   ??  Ss    11119    3:49.19 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root              8776   0.0  0.0  4368184    916   ??  Ss   311019    0:01.37 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+_atsserver        8772   0.0  0.0  4333396    480   ??  Ss   311019    0:00.40 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+wangyingjian      8658   0.0  0.4 89581404  36824   ??  Ss   311019    0:24.13 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+wangyingjian      8546   0.0  0.0 89311244   2460   ??  Ss   311019    0:08.58 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+wangyingjian      8499   0.0  0.0  4347788   1516   ??  Ss   311019    0:21.03 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+wangyingjian      8252   0.0  0.0  4347936   1328   ??  Ss   291019    0:09.21 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Storage.xpc/Contents/MacOS/com.apple.WebKit.Storage
+wangyingjian      8246   0.0  0.2  4402772  20140   ??  Ss   291019    5:29.30 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+wangyingjian      8241   0.0  2.1  7098176 175508   ??  S    291019   34:43.77 /Applications/Safari.app/Contents/MacOS/Safari
+wangyingjian      8232   0.0  0.0  4883068   3920   ??  S    291019    0:02.44 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper (Renderer).app/Contents/MacOS/Google Chrome Helper (Renderer) --type=renderer --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --extension-process --enable-auto-reload --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=11472470724144259954 --renderer-client-id=46 --no-v8-untrusted-code-mitigations --seatbelt-client=185
+wangyingjian      8198   0.0  0.0  4340520    536   ??  S    291019    0:00.60 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+wangyingjian      8143   0.0  0.0  4860960   3052   ??  S    291019    0:08.71 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+wangyingjian      8026   0.0  0.0  4547992   2508   ??  S    291019    0:45.74 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper --type=utility --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --lang=zh-CN --service-sandbox-type=audio --message-loop-type-ui --service-request-channel-token=6486570926066602363 --seatbelt-client=166
+wangyingjian      7793   0.0  0.0  4658396   3420   ??  S    291019    2:11.57 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/Google Chrome Helper (GPU).app/Contents/MacOS/Google Chrome Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,14512873856184546721,17797001150442410360,131072 --gpu-preferences=KAAAAAAAAAAgAAAAAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAOgAAAAcAAAA4AAAAAAAAADoAAAAAAAAAPAAAAAAAAAA+AAAAAAAAAAAAQAAAAAAAAgBAAAAAAAAEAEAAAAAAAAYAQAAAAAAACABAAAAAAAAKAEAAAAAAAAwAQAAAAAAADgBAAAAAAAAQAEAAAAAAABIAQAAAAAAAFABAAAAAAAAWAEAAAAAAABgAQAAAAAAAGgBAAAAAAAAcAEAAAAAAAB4AQAAAAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAACgAAABAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAAAAAAANAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAYAAAAQAAAAAAAAAAEAAAAHAAAAEAAAAAAAAAABAAAACAAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAQAAAAGAAAAEAAAAAAAAAAEAAAABwAAABAAAAAAAAAABAAAAAgAAAAQAAAAAAAAAAQAAAAKAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAA0AAAAQAAAAAAAAAAYAAAAAAAAAEAAAAAAAAAAGAAAABgAAABAAAAAAAAAABgAAAAcAAAAQAAAAAAAAAAYAAAAIAAAAEAAAAAAAAAAGAAAACgAAABAAAAAAAAAABgAAAAsAAAAQAAAAAAAAAAYAAAANAAAA --service-request-channel-token=4435709424286395797
+wangyingjian      7790   0.0  0.0  4308020    260   ??  S    291019    0:00.19 /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/78.0.3904.70/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/wangyingjian/Library/Application Support/Google/Chrome/Crashpad --metrics-dir=/Users/wangyingjian/Library/Application Support/Google/Chrome --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=78.0.3904.70 --handshake-fd=8
+_usbmuxd          7777   0.0  0.0  4331844    876   ??  Ss   291019    0:01.03 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+wangyingjian      7539   0.0  0.6  5308460  46788   ??  Ss   281019    0:29.24 /System/Library/Input Methods/SCIM.app/Contents/PlugIns/SCIM_Extension.appex/Contents/MacOS/SCIM_Extension
+wangyingjian      4958   0.0  0.0  4305284    864   ??  S    231019    0:00.27 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
+wangyingjian      2424   0.0  0.0  4301784      8   ??  S    231019    0:00.65 dataserver
+wangyingjian      2421   0.0  0.0  4280116      8   ??  S    231019    0:00.01 /Users/wangyingjian/desktop/drive-download-20191016T012120Z-001/client -w 1 -f 10000.dat
+root              1725   0.0  0.0  4304692    560   ??  Ss   231019    0:00.23 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeinstalld
+wangyingjian      1455   0.0  0.1  4447156   6128   ??  S    231019    0:14.02 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+wangyingjian      1396   0.0  0.1  4351140   4540   ??  S    231019    0:09.51 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+wangyingjian      1317   0.0  0.0  4289444      8   ??  S    231019    0:00.03 /usr/bin/ssh-agent -l
+wangyingjian      1168   0.0  0.0  4304992    620   ??  S    231019    0:01.30 /usr/libexec/assertiond
+wangyingjian      1060   0.0  0.0  4332572   2164   ??  S    231019    0:01.13 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+wangyingjian      1053   0.0  0.0  4304832    300   ??  S    231019    0:00.16 /usr/libexec/mobileactivationd
+_fpsd             1047   0.0  0.0  4305364    544   ??  Ss   231019    0:00.32 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fpsd
+root               973   0.0  0.0  4331944   1312   ??  Ss   231019    0:01.33 /System/Library/CoreServices/SubmitDiagInfo server-init
+wangyingjian       637   0.0  0.0  4862216   3000   ??  S    221019    0:09.22 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/com.apple.CoreSimulator.CoreSimulatorService.xpc/Contents/MacOS/com.apple.CoreSimulator.CoreSimulatorService
+wangyingjian       634   0.0  0.2  4482504  20844   ??  S    221019    3:10.80 /System/Library/CoreServices/Dock.app/Contents/Resources/DashboardClient.app/Contents/MacOS/DashboardClient
+wangyingjian       586   0.0  0.0  4332832   2036   ??  S    221019    0:05.64 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+root               579   0.0  0.0  4400892   2784   ??  Ss   221019    0:01.63 /usr/libexec/diskmanagementd
+wangyingjian       574   0.0  0.0  4334692   1108   ??  S    221019    0:00.50 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+root               521   0.0  0.0  4331856   1340   ??  Ss   221019    0:02.18 /usr/libexec/taskgated
+wangyingjian       461   0.0  0.1  4615476   7416   ??  S    221019    0:24.03 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+wangyingjian       438   0.0  0.0  4348652   3948   ??  S    221019    0:09.23 /System/Library/PrivateFrameworks/CommerceKit.framework/Resources/LaterAgent.app/Contents/MacOS/LaterAgent
+wangyingjian       430   0.0  0.1  4480072  10392   ??  S    221019    0:16.51 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd
+wangyingjian       423   0.0  0.0  4333000    668   ??  S    221019    0:00.37 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storelegacy
+wangyingjian       410   0.0  0.1  4444396   7480   ??  S    221019    0:11.92 /System/Library/CoreServices/Menu Extras/TextInput.menu/Contents/SharedSupport/TISwitcher.app/Contents/MacOS/TISwitcher
+wangyingjian       407   0.0  0.0  4332884   3496   ??  S    221019    0:10.48 /System/Library/CoreServices/diagnostics_agent
+wangyingjian       406   0.0  0.1  4357116   4476   ??  S    221019    0:14.08 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+wangyingjian       405   0.0  0.0  4332980   2296   ??  S    221019    1:30.43 /System/Library/CoreServices/cloudpaird
+wangyingjian       400   0.0  0.0  4336208   3232   ??  S    221019    0:20.71 /System/Library/Image Capture/Support/icdd
+wangyingjian       395   0.0  0.0  4331312    796   ??  S    221019    0:00.63 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
+wangyingjian       392   0.0  0.0  4304756    460   ??  S    221019    0:00.22 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+wangyingjian       379   0.0  0.0  5296316   4180   ??  S    221019    2:01.29 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+root               377   0.0  0.0  4304680    996   ??  Ss   221019    0:00.32 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+wangyingjian       368   0.0  0.0  4332924    556   ??  S    221019    0:00.39 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+wangyingjian       360   0.0  0.1  4960080   4792   ??  Ss   221019    0:19.71 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
+wangyingjian       357   0.0  0.1  4373008   8140   ??  S    221019    0:32.65 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+wangyingjian       355   0.0  0.0  4339508   2456   ??  Ss   221019    0:53.24 /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/XPCServices/WiFiProxy.xpc/Contents/MacOS/WiFiProxy
+wangyingjian       345   0.0  0.0  4334900   2804   ??  S    221019    0:06.72 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+wangyingjian       344   0.0  0.2  5155688  15072   ??  S    221019    0:36.29 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+wangyingjian       341   0.0  0.0  4306452   2360   ??  S    221019    0:00.83 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+wangyingjian       340   0.0  0.0  4333416   3260   ??  Ss   221019    0:02.26 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+wangyingjian       335   0.0  0.0  4335592   4132   ??  S    221019    0:09.14 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+wangyingjian       334   0.0  0.0  4339232   3448   ??  Ss   221019    0:04.91 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+wangyingjian       333   0.0  0.0  4333148   2836   ??  S    221019    0:30.35 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+wangyingjian       332   0.0  0.3  4371080  21948   ??  S    221019    7:21.98 /usr/libexec/sharingd
+wangyingjian       331   0.0  0.0  4951996   4188   ??  Ss   221019    0:12.99 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+wangyingjian       330   0.0  0.2  5215928  19648   ??  S    221019    0:45.84 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+wangyingjian       329   0.0  0.1  4334440   4592   ??  S    221019    1:45.53 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+wangyingjian       326   0.0  0.1  4336408   5472   ??  S    221019    0:08.22 /usr/sbin/usernoted
+wangyingjian       322   0.0  0.1  4335544   6892   ??  S    221019    3:43.02 /usr/libexec/rapportd
+root               321   0.0  0.0  4332756   2952   ??  Ss   221019    3:17.56 /usr/sbin/wirelessproxd
+wangyingjian       315   0.0  0.1  4334344   5032   ??  S    221019    0:04.62 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+wangyingjian       314   0.0  0.1  4347932   7792   ??  S    221019    1:51.76 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+wangyingjian       309   0.0  0.1  4334508   4720   ??  S    221019    0:49.26 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+wangyingjian       307   0.0  0.0  4333084   1616   ??  S    221019    0:01.21 /System/Library/CoreServices/backgroundtaskmanagementagent
+root               304   0.0  0.0  4305768   1264   ??  Ss   221019    0:03.87 /usr/sbin/filecoordinationd
+wangyingjian       303   0.0  0.1  4357216   7200   ??  S    221019    0:22.98 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+wangyingjian       302   0.0  0.2  4439632  14016   ??  S    221019    1:30.09 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+wangyingjian       295   0.0  0.0  4334820   2780   ??  S    221019    0:11.43 /usr/libexec/pkd
+wangyingjian       294   0.0  0.0  4334228   3564   ??  S    221019    0:05.41 /System/Library/CoreServices/sharedfilelistd
+wangyingjian       291   0.0  0.0  4305832   1192   ??  S    221019    0:02.88 /usr/libexec/pboard
+wangyingjian       287   0.0  0.1  4376172   9396   ??  S    221019    3:08.49 /usr/libexec/trustd --agent
+wangyingjian       286   0.0  0.1  4338264   5684   ??  S    221019    0:06.55 /usr/libexec/lsd
+wangyingjian       285   0.0  0.3  5228328  27644   ??  S    221019    6:51.67 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+wangyingjian       283   0.0  0.1  4346404   6040   ??  S    221019    0:24.01 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+wangyingjian       282   0.0  0.5  5158448  39448   ??  S    221019   16:06.75 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+wangyingjian       279   0.0  0.0  4305860   3552   ??  S    221019    0:33.59 /usr/sbin/distnoted agent
+wangyingjian       277   0.0  0.1  4335060   6048   ??  S    221019    2:44.49 /usr/libexec/UserEventAgent (Aqua)
+wangyingjian       276   0.0  0.0  4306196   2872   ??  S    221019    0:48.14 /usr/sbin/cfprefsd agent
+root               275   0.0  0.0  4306404    140   ??  Ss   221019    0:00.40 /usr/libexec/securityd_service
+root               270   0.0  0.0  4333012   1724   ??  Ss   221019    0:20.65 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+root               250   0.0  0.0  4332632   1936   ??  Ss   221019    0:01.18 /System/Library/CoreServices/sharedfilelistd
+_cmiodalassistants   247   0.0  0.0  4334028    728   ??  Ss   221019    2:18.64 /Library/CoreMediaIO/Plug-Ins/DAL/AppleCamera.plugin/Contents/Resources/AppleCameraAssistant
+root               244   0.0  0.0  4332936    792   ??  S    221019    0:01.66 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               218   0.0  0.0  4331180    124   ??  Ss   221019    0:00.43 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+root               214   0.0  0.0  4296516    172   ??  Ss   221019    0:00.26 /usr/libexec/thermald
+root               211   0.0  0.6  5141384  52072   ??  Ss   221019    5:56.54 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               210   0.0  0.1  4336548   4644   ??  Ss   221019    0:20.28 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd system
+root               209   0.0  0.0  4297512    344   ??  Ss   221019    0:02.62 /usr/libexec/watchdogd
+root               175   0.0  0.0  4334548   2804   ??  Ss   221019    0:05.46 /usr/libexec/nesessionmanager
+root               173   0.0  0.1  4338168   4332   ??  Ss   221019    0:06.19 /usr/libexec/lsd runAsRoot
+root               170   0.0  0.0  4304748   1508   ??  Ss   221019    0:00.42 /usr/libexec/apfsd
+_nsurlsessiond     168   0.0  0.1  4341364   5416   ??  Ss   221019    0:09.02 /usr/libexec/nsurlsessiond --privileged
+_windowserver      166   0.0  0.5  6874112  39936   ??  Ss   221019  202:05.79 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+root               164   0.0  0.0  4332640    724   ??  Ss   221019    0:10.75 /usr/sbin/mDNSResponderHelper
+_networkd          161   0.0  0.1  4348568   7476   ??  Ss   221019    1:59.11 /usr/libexec/symptomsd
+_coreaudiod        148   0.0  0.0  4314156   3688   ??  Ss   221019    5:57.34 /usr/sbin/coreaudiod
+root               147   0.0  0.4  4431704  37644   ??  Ss   221019   19:23.70 /usr/libexec/airportd
+root               136   0.0  0.1  4340288   8188   ??  Ss   221019    1:30.24 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               132   0.0  0.0  4305224      8   ??  Ss   221019    0:00.03 /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd
+root               130   0.0  0.1  4346324   8956   ??  Ss   221019    0:49.50 /usr/libexec/trustd
+root               121   0.0  0.0  4342064   3820   ??  Ss   221019    0:08.98 /usr/libexec/syspolicyd
+root               119   0.0  0.0  4354660   3132   ??  Ss   221019    0:20.62 /System/Library/CoreServices/coreservicesd
+root               118   0.0  0.0  4335252   3004   ??  Ss   221019    0:06.94 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+root               116   0.0  0.0  4305320   2724   ??  Ss   221019    0:35.29 /usr/sbin/cfprefsd daemon
+_distnote          114   0.0  0.0  4305860    904   ??  Ss   221019    0:03.54 /usr/sbin/distnoted daemon
+root               113   0.0  0.0  4297284   1584   ??  Ss   221019    0:57.76 /usr/sbin/notifyd
+root               112   0.0  0.0  4332936   2696   ??  Ss   221019    0:16.84 /usr/libexec/AirPlayXPCHelper
+root               111   0.0  0.0  4338016   1960   ??  Ss   221019    0:31.94 /usr/libexec/corebrightnessd --launchd
+_hidd              109   0.0  0.1  4335128   4388   ??  Ss   221019   50:26.84 /usr/libexec/hidd
+root               108   0.0  0.1  4335504   6512   ??  Ss   221019    9:49.31 /usr/sbin/bluetoothd
+root               106   0.0  0.0  4305180    284   ??  Ss   221019    0:00.05 /usr/sbin/KernelEventAgent
+root               105   0.0  0.0  4341216   2792   ??  Ss   221019    0:08.84 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               104   0.0  0.0  4304772   1320   ??  Ss   221019    0:00.47 /System/Library/CoreServices/logind
+wangyingjian       103   0.0  0.4  5043172  33356   ??  Ss   221019    1:39.15 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root                99   0.0  0.1  4337292   4516   ??  Ss   221019    0:44.19 /usr/libexec/dasd
+_displaypolicyd     98   0.0  0.0  4307532    756   ??  Ss   221019    0:01.34 /usr/libexec/displaypolicyd -k 1
+root                97   0.0  0.0  4305176    184   ??  Ss   221019    0:00.04 autofsd
+_locationd          95   0.0  0.1  4345860   7840   ??  Ss   221019    2:48.15 /usr/libexec/locationd
+root                92   0.0  0.1  4336728   4736   ??  Ss   221019    0:35.26 /usr/sbin/securityd -i
+_timed              91   0.0  0.0  4331736   2484   ??  Ss   221019    0:07.77 /usr/libexec/timed
+root                90   0.0  0.1  4336552   5376   ??  Ss   221019    1:08.04 /System/Library/CoreServices/launchservicesd
+root                89   0.0  0.0  4332568    708   ??  Ss   221019    0:00.97 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+root                87   0.0  0.1  4338440   8308   ??  Ss   221019    0:28.30 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root                86   0.0  0.1  4352000  11556   ??  Ss   221019    2:22.37 /usr/libexec/opendirectoryd
+root                81   0.0  0.0  4305556   1588   ??  Ss   221019    0:02.35 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+root                78   0.0  0.0  4331308   2900   ??  Ss   221019    0:07.19 /usr/libexec/diskarbitrationd
+root                76   0.0  0.0  4296572     48   ??  Ss   221019    0:07.57 /Library/Application Support/National Instruments/Service Locator/nisvcloc
+root                75   0.0  0.3  4468072  27156   ??  Ss   221019    3:43.66 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root                68   0.0  0.1  4389756  12052   ??  Ss   221019    1:51.54 /usr/libexec/logd
+root                65   0.0  0.0  4332088   3660   ??  Ss   221019    2:08.89 /System/Library/CoreServices/powerd.bundle/powerd
+root                64   0.0  0.1  4351200   6104   ??  Ss   221019    1:20.60 /usr/libexec/configd
+root                62   0.0  0.1  4348564   9500   ??  Ss   221019    5:41.25 /usr/sbin/systemstats --daemon
+_appleevents        61   0.0  0.0  4334892   2060   ??  Ss   221019    0:01.97 /System/Library/CoreServices/appleeventsd --server
+root                56   0.0  0.1  4708564   4720   ??  Ss   221019    2:14.84 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root                55   0.0  0.1  4337100   7004   ??  Ss   221019    0:05.46 /usr/libexec/kextd
+root                54   0.0  0.0  4304416    384   ??  Ss   221019    0:07.63 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                51   0.0  0.0  4333740   3836   ??  Ss   221019    0:11.17 /usr/libexec/UserEventAgent (System)
+root                50   0.0  0.0  4305800    652   ??  Ss   221019    0:20.75 /usr/sbin/syslogd
+root             23909   0.0  0.0  4268372    980 s000  R+    7:02下午   0:00.00 ps aux
+root                 1   0.0  0.1  4329796  11404   ??  Ss   221019    7:02.32 /sbin/launchd
+wangyingjian     23905   0.0  0.3  4344424  21012   ??  S     7:02下午   0:00.28 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+_spotlight       23904   0.0  0.1  4335948  11364   ??  S     7:01下午   0:00.15 /usr/libexec/trustd --agent
+_iconservices    23891   0.0  0.1  4298180   6412   ??  Ss    7:01下午   0:00.03 /System/Library/CoreServices/iconservicesd
+wangyingjian     23871   0.0  0.1  4333660   9344   ??  S     7:01下午   0:00.07 /usr/libexec/swcd
+wangyingjian     22532   0.0  0.1  4337112   8720   ??  S     7:01下午   0:00.10 /System/Library/CoreServices/pbs
+root             22531   0.0  0.1  4337640   8708   ??  Ss    7:01下午   0:00.15 /System/Library/CoreServices/iconservicesagent runAsRoot
+wangyingjian     22530   0.0  0.2  4341784  15556   ??  S     7:01下午   0:00.89 /System/Library/CoreServices/iconservicesagent
+wangyingjian     22470   0.0  0.1  4331316   9660   ??  S     7:01下午   0:00.02 /System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd
+root             22294   0.0  0.1  4332356   7896   ??  Ss    7:01下午   0:00.05 /usr/libexec/amfid

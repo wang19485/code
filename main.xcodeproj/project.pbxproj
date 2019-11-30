@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D99262E2141804400407905 /* Quadratic Equation Solver.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4D99262C2141804400407905 /* Quadratic Equation Solver.cpp */; };
 		4DB8E171213EBE0700894199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4DB8E170213EBE0700894199 /* main.cpp */; };
+		4DF4A76C21482B5A00BE7AD7 /* coinmaker.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4DF4A76A21482B5A00BE7AD7 /* coinmaker.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +25,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4D99262C2141804400407905 /* Quadratic Equation Solver.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Quadratic Equation Solver.cpp"; sourceTree = "<group>"; };
 		4DB8E16D213EBE0600894199 /* main */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = main; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DB8E170213EBE0700894199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4DF4A76A21482B5A00BE7AD7 /* coinmaker.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = coinmaker.cpp; path = main/coinmaker.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +45,7 @@
 		4DB8E164213EBE0600894199 = {
 			isa = PBXGroup;
 			children = (
+				4DF4A76A21482B5A00BE7AD7 /* coinmaker.cpp */,
 				4DB8E16F213EBE0600894199 /* main */,
 				4DB8E16E213EBE0600894199 /* Products */,
 			);
@@ -58,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				4DB8E170213EBE0700894199 /* main.cpp */,
+				4D99262C2141804400407905 /* Quadratic Equation Solver.cpp */,
 			);
 			path = main;
 			sourceTree = "<group>";
@@ -119,6 +125,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DB8E171213EBE0700894199 /* main.cpp in Sources */,
+				4D99262E2141804400407905 /* Quadratic Equation Solver.cpp in Sources */,
+				4DF4A76C21482B5A00BE7AD7 /* coinmaker.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

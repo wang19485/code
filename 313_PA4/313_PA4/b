@@ -1,0 +1,80 @@
+_mdnsresponder     162   1.8  0.1  4335472   6992   ??  Ss   221019   12:39.23 /usr/sbin/mDNSResponder
+_netbios         22256   0.1  0.1  4309400   9440   ??  SNs   6:48下午   0:01.70 /usr/sbin/netbiosd
+_captiveagent    22257   0.0  0.1  4306968   5876   ??  Ss    6:48下午   0:00.03 /usr/libexec/captiveagent
+root             22236   0.0  0.1  4335988   6896   ??  Ss    5:54下午   0:00.08 /usr/sbin/systemsoundserverd
+root             22198   0.0  0.1  4333280   6528   ??  Ss    5:23下午   0:00.05 /usr/bin/sysdiagnose
+_assetcache      22196   0.0  0.1  4336740  10472   ??  Ss    5:23下午   0:00.11 /usr/libexec/AssetCache/AssetCache
+wangyingjian     22178   0.0  0.1  4333256  10132   ??  S     5:23下午   0:00.07 /usr/libexec/networkserviceproxy
+root             22176   0.0  0.1  4337680   6524   ??  Ss    5:23下午   0:00.10 /usr/libexec/dprivacyd
+root             22170   0.0  0.1  4331500   6328   ??  Ss    5:23下午   0:00.12 /usr/sbin/ocspd
+wangyingjian     22169   0.0  0.2  4337212  13224   ??  S     5:23下午   0:00.32 /usr/libexec/knowledge-agent
+root             22166   0.0  0.1  4336776   7628   ??  Ss    5:23下午   0:00.11 /usr/libexec/nehelper
+_nsurlstoraged   22156   0.0  0.1  4305300   6860   ??  Ss    5:23下午   0:00.29 /usr/libexec/nsurlstoraged --privileged
+root             22129   0.0  0.1  4304936   4652   ??  Ss    5:19下午   0:00.10 /usr/libexec/sysmond
+root             22104   0.0  0.2  4337584  14676   ??  Ss    5:17下午   0:01.33 /usr/libexec/mobileassetd
+root             22098   0.0  0.2  4341768  15044   ??  Ss    5:17下午   0:00.26 /usr/libexec/coreduetd
+wangyingjian     22088   0.0  0.1  4333568   6816   ??  S     5:14下午   0:00.32 /usr/libexec/secinitd
+_locationd       22084   0.0  0.0  4296700    888   ??  S     5:13下午   0:00.03 /usr/sbin/cfprefsd agent
+root             22082   0.0  0.0  4287944   4168   ??  Ss    5:13下午   0:00.01 /usr/libexec/keybagd -t 15
+root             22077   0.0  0.1  4332284  12176   ??  Ss    5:13下午   0:00.11 /usr/sbin/WirelessRadioManagerd
+wangyingjian     22075   0.0  0.1  4334100   9868   ??  S     5:13下午   0:01.15 /usr/libexec/nsurlstoraged
+wangyingjian     22070   0.0  0.1  4305608   6240   ??  S     5:13下午   0:00.04 /usr/libexec/SidecarRelay
+wangyingjian     22068   0.0  0.4  4348492  34168   ??  S     5:13下午   0:01.78 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+wangyingjian     22059   0.0  0.2  4346332  16888   ??  S     5:13下午   0:04.66 /usr/libexec/secd
+root             22051   0.0  0.1  4334796   7784   ??  Ss    5:12下午   0:00.93 /usr/libexec/sandboxd
+root             19932   0.0  0.1  4333568   6936   ??  Ss   六01下午   0:13.67 /usr/libexec/PerfPowerServices
+wangyingjian     17694   0.0  0.1  4343356   4404   ??  S    四11下午   0:02.73 /usr/libexec/nsurlsessiond
+wangyingjian      1317   0.0  0.0  4289444      4   ??  S    231019    0:00.03 /usr/bin/ssh-agent -l
+wangyingjian      1168   0.0  0.0  4304992    948   ??  S    231019    0:01.30 /usr/libexec/assertiond
+wangyingjian      1053   0.0  0.0  4304832    296   ??  S    231019    0:00.16 /usr/libexec/mobileactivationd
+root               579   0.0  0.0  4400892   2948   ??  Ss   221019    0:01.63 /usr/libexec/diskmanagementd
+root               521   0.0  0.0  4331856   1352   ??  Ss   221019    0:02.18 /usr/libexec/taskgated
+wangyingjian       332   0.0  0.3  4371080  23772   ??  S    221019    7:21.80 /usr/libexec/sharingd
+wangyingjian       326   0.0  0.1  4336408   5676   ??  S    221019    0:08.22 /usr/sbin/usernoted
+wangyingjian       322   0.0  0.1  4335544   6892   ??  S    221019    3:42.73 /usr/libexec/rapportd
+root               321   0.0  0.0  4332756   2964   ??  Ss   221019    3:17.42 /usr/sbin/wirelessproxd
+root               304   0.0  0.0  4305768   1276   ??  Ss   221019    0:03.87 /usr/sbin/filecoordinationd
+wangyingjian       295   0.0  0.0  4339496   4016   ??  S    221019    0:11.43 /usr/libexec/pkd
+wangyingjian       291   0.0  0.0  4305832   1156   ??  S    221019    0:02.87 /usr/libexec/pboard
+wangyingjian       287   0.0  0.2  4376696  13612   ??  S    221019    3:08.20 /usr/libexec/trustd --agent
+wangyingjian       286   0.0  0.1  4338196   4248   ??  S    221019    0:06.40 /usr/libexec/lsd
+wangyingjian       279   0.0  0.0  4305860   3348   ??  S    221019    0:33.56 /usr/sbin/distnoted agent
+wangyingjian       277   0.0  0.1  4334536   5880   ??  S    221019    2:44.38 /usr/libexec/UserEventAgent (Aqua)
+wangyingjian       276   0.0  0.0  4306196   2724   ??  S    221019    0:48.07 /usr/sbin/cfprefsd agent
+root               275   0.0  0.0  4306404    136   ??  Ss   221019    0:00.40 /usr/libexec/securityd_service
+root               244   0.0  0.0  4332936    948   ??  S    221019    0:01.66 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               214   0.0  0.0  4296516    168   ??  Ss   221019    0:00.26 /usr/libexec/thermald
+root               209   0.0  0.0  4297512    348   ??  Ss   221019    0:02.62 /usr/libexec/watchdogd
+root               175   0.0  0.0  4338156   2812   ??  Ss   221019    0:05.43 /usr/libexec/nesessionmanager
+root               173   0.0  0.1  4338140   4316   ??  Ss   221019    0:06.10 /usr/libexec/lsd runAsRoot
+root               170   0.0  0.0  4304748   1368   ??  Ss   221019    0:00.42 /usr/libexec/apfsd
+_nsurlsessiond     168   0.0  0.1  4344972   6448   ??  Ss   221019    0:09.02 /usr/libexec/nsurlsessiond --privileged
+root               164   0.0  0.0  4332640    732   ??  Ss   221019    0:10.75 /usr/sbin/mDNSResponderHelper
+_networkd          161   0.0  0.1  4348016   7640   ??  Ss   221019    1:59.06 /usr/libexec/symptomsd
+_coreaudiod        148   0.0  0.0  4314156   3696   ??  Ss   221019    5:57.34 /usr/sbin/coreaudiod
+root               147   0.0  0.5  4431704  43196   ??  Ss   221019   19:23.70 /usr/libexec/airportd
+root               130   0.0  0.1  4346324   5516   ??  Ss   221019    0:49.11 /usr/libexec/trustd
+root               121   0.0  0.0  4342064   1348   ??  Ss   221019    0:08.59 /usr/libexec/syspolicyd
+root               116   0.0  0.0  4305320   2752   ??  Ss   221019    0:35.25 /usr/sbin/cfprefsd daemon
+_distnote          114   0.0  0.0  4305860    864   ??  Ss   221019    0:03.54 /usr/sbin/distnoted daemon
+root               113   0.0  0.0  4296760   1584   ??  Ss   221019    0:57.64 /usr/sbin/notifyd
+root               112   0.0  0.0  4332936   2712   ??  Ss   221019    0:16.84 /usr/libexec/AirPlayXPCHelper
+root               111   0.0  0.0  4338016   1980   ??  Ss   221019    0:31.94 /usr/libexec/corebrightnessd --launchd
+_hidd              109   0.0  0.1  4334604   4392   ??  Ss   221019   50:26.39 /usr/libexec/hidd
+root               108   0.0  0.1  4335504   6512   ??  Ss   221019    9:48.93 /usr/sbin/bluetoothd
+root               106   0.0  0.0  4305180     84   ??  Ss   221019    0:00.05 /usr/sbin/KernelEventAgent
+root                99   0.0  0.1  4337292   4580   ??  Ss   221019    0:44.18 /usr/libexec/dasd
+_displaypolicyd     98   0.0  0.0  4307532    772   ??  Ss   221019    0:01.34 /usr/libexec/displaypolicyd -k 1
+_locationd          95   0.0  0.1  4345860   9804   ??  Ss   221019    2:48.14 /usr/libexec/locationd
+root                92   0.0  0.1  4336728   4600   ??  Ss   221019    0:35.25 /usr/sbin/securityd -i
+_timed              91   0.0  0.0  4331736   2492   ??  Ss   221019    0:07.77 /usr/libexec/timed
+root                86   0.0  0.1  4352548  10948   ??  Ss   221019    2:22.21 /usr/libexec/opendirectoryd
+root                78   0.0  0.0  4331308   2264   ??  Ss   221019    0:07.04 /usr/libexec/diskarbitrationd
+root                68   0.0  0.2  4390012  16588   ??  Ss   221019    1:51.42 /usr/libexec/logd
+root                64   0.0  0.2  4351200  12600   ??  Ss   221019    1:20.60 /usr/libexec/configd
+root                62   0.0  0.2  4352172  16784   ??  Ss   221019    5:41.17 /usr/sbin/systemstats --daemon
+root                55   0.0  0.0  4336844   2300   ??  Ss   221019    0:05.19 /usr/libexec/kextd
+root                51   0.0  0.0  4333740   3884   ??  Ss   221019    0:11.16 /usr/libexec/UserEventAgent (System)
+root                50   0.0  0.0  4305800    632   ??  Ss   221019    0:20.75 /usr/sbin/syslogd
+wangyingjian     22270   0.0  0.2  4338716  14708   ??  S     6:49下午   0:00.10 /usr/libexec/keyboardservicesd
+root             22265   0.0  0.1  4333156   6700   ??  Ss    6:48下午   0:00.05 /usr/libexec/rtcreportingd

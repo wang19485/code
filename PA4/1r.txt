@@ -1,0 +1,10 @@
+1[1]
+
+Value	Search Cost
+1		1
+The total number of node is 1.
+The search cost over all codes in the tree is 1 = 1
+Average search cost is: 1
+In order: 
+1[1] 
+

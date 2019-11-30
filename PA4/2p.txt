@@ -1,0 +1,13 @@
+2[1]
+1[2] 3[2] 
+
+Value	Search Cost
+2		1
+1		2
+3		2
+The total number of node is 3.
+The search cost over all codes in the tree is 1 + 2 + 2 = 5
+Average search cost is: 1.66667
+In order: 
+1[2] 2[1] 3[2] 
+

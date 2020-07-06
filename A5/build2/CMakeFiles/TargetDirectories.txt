@@ -1,0 +1,3 @@
+/Users/wangyingjian/desktop/main/A5/build2/CMakeFiles/rebuild_cache.dir
+/Users/wangyingjian/desktop/main/A5/build2/CMakeFiles/edit_cache.dir
+/Users/wangyingjian/desktop/main/A5/build2/CMakeFiles/A5.dir

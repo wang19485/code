@@ -1,0 +1,10 @@
+/Users/wangyingjian/desktop/main/A2/L00/build/CMakeFiles/install.dir
+/Users/wangyingjian/desktop/main/A2/L00/build/CMakeFiles/Assignment2.dir
+/Users/wangyingjian/desktop/main/A2/L00/build/CMakeFiles/ALL_BUILD.dir
+/Users/wangyingjian/desktop/main/A2/L00/build/CMakeFiles/ZERO_CHECK.dir
+/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeFiles/install.dir
+/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeFiles/uninstall.dir
+/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeFiles/ALL_BUILD.dir
+/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeFiles/ZERO_CHECK.dir
+/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src/CMakeFiles/install.dir
+/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src/CMakeFiles/glfw.dir

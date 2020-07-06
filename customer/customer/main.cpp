@@ -4,7 +4,7 @@
 #include "Store.h"
 using namespace std;
 int main() {
-    /*try {
+    try {
         Product p(17, "Jill");
         cout << "p (id): " << p.getID() << endl;
         cout << "p (name): " << p.getName() << endl;
@@ -69,7 +69,7 @@ int main() {
     }
     catch (runtime_error& e) {
         cout << "Exception caught: " << e.what() << endl;
-    }*/
+    }
    Customer c1(987,"Ms Jackson",true);
     cout << c1.getCredit();
 }

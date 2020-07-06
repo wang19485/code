@@ -1,0 +1,1029 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXAggregateTarget section */
+		76CD7A27891E4F4FA8BC6F5D /* install */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 4992712836224347BFE6F9D4 /* Build configuration list for PBXAggregateTarget "install" */;
+			buildPhases = (
+				6285459865714F37BB000188 /* CMake PostBuild Rules */,
+			);
+			dependencies = (
+				7C3617406A73489AAD9F462E /* PBXTargetDependency */,
+			);
+			name = install;
+			productName = install;
+		};
+		8E1C81ADDB554E229204B5F6 /* ALL_BUILD */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 85F6DC53AD464BA785A37652 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */;
+			buildPhases = (
+				2D477390C0C8420381FAA965 /* CMake Rules */,
+			);
+			dependencies = (
+				6BFEE370083C4566B917D57F /* PBXTargetDependency */,
+				888B83FAB4A5480981FDE0E9 /* PBXTargetDependency */,
+			);
+			name = ALL_BUILD;
+			productName = ALL_BUILD;
+		};
+		CB7E87A9D7AB4A13A11CDBAC /* ZERO_CHECK */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 2EA4CCB2E51B45C6BB59A1B5 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */;
+			buildPhases = (
+				A253C50393D640A281B25D80 /* CMake Rules */,
+			);
+			dependencies = (
+			);
+			name = ZERO_CHECK;
+			productName = ZERO_CHECK;
+		};
+		E9DC780F5C5B4C56912DA08B /* uninstall */ = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = DC26E4ED6EB542F5A466FAD3 /* Build configuration list for PBXAggregateTarget "uninstall" */;
+			buildPhases = (
+				1AC3E2C752A24A0190BE8EB8 /* CMake Rules */,
+			);
+			dependencies = (
+				DE29A4F5D2F343F9AF65A8E3 /* PBXTargetDependency */,
+			);
+			name = uninstall;
+			productName = uninstall;
+		};
+/* End PBXAggregateTarget section */
+
+/* Begin PBXBuildFile section */
+		0256ADC06F75453FBCF6CFE7 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/context.c */ = {isa = PBXBuildFile; fileRef = AE9AD34CDC71493F8BDF1D6E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/context.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		1907ABD6E8CB42F99A8E118F /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.h */ = {isa = PBXBuildFile; fileRef = 9AA83246B9A146D1A4B723DB /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.h */; };
+		21D9E1A0F2034066B1F7BAD1 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.h */ = {isa = PBXBuildFile; fileRef = 84FB0A8CF803407F8AA6C9EA /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.h */; };
+		2E7E5C2DCFE24C869BD76B06 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/mappings.h */ = {isa = PBXBuildFile; fileRef = 2BF4DC8F6D044FE09ED13B3C /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/mappings.h */; };
+		33373F1CFE294C53B2273DE5 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.h */ = {isa = PBXBuildFile; fileRef = AA1E2EBA875547A0974A3E70 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.h */; };
+		39D0266084904644923EE72E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_time.c */ = {isa = PBXBuildFile; fileRef = C4CC9467CFF448B982353780 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_time.c */; };
+		42B5C4E72C364633B43AE59B /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/input.c */ = {isa = PBXBuildFile; fileRef = 19E5B4AD21CB4DDEBC7392DE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/input.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		50F696E718EE40649A384227 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.c */ = {isa = PBXBuildFile; fileRef = 614466B3D0C044A592F263E4 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		6FCD06F8FBC943349AAC77F2 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3.h */ = {isa = PBXBuildFile; fileRef = 961D39EC18DB43F9A01CA2A7 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3.h */; };
+		745E56C39E244062827498A7 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.h */ = {isa = PBXBuildFile; fileRef = 38B36A1C6E9247DFB82B3D6E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.h */; };
+		7AE29E0CAB804692A69F9644 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/monitor.c */ = {isa = PBXBuildFile; fileRef = 62C1785D95B1416F8F331CB8 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/monitor.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		7C30DE9024054341AD80BF7B /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3native.h */ = {isa = PBXBuildFile; fileRef = 51B5CA71225A48589C8C2EFC /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3native.h */; };
+		8CF115052DA24106B6313C1D /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.h */ = {isa = PBXBuildFile; fileRef = F860DE2E7F7C4DB780C94336 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.h */; };
+		9545370D80AB4AB5A3051703 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/CMakeLists.txt */ = {isa = PBXBuildFile; fileRef = 8F7A28EE71B84617A078923F /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/CMakeLists.txt */; };
+		9FC92FA5662A40F48281EDCE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/init.c */ = {isa = PBXBuildFile; fileRef = F7F468C2BCC64C1A826EBCB2 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/init.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		A1C0D411E10B4E42A243B309 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.m */ = {isa = PBXBuildFile; fileRef = 634DEFCDE23A434194DE9618 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.m */; };
+		A3B22013E6624BB3AE1CE40A /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.c */ = {isa = PBXBuildFile; fileRef = AE804CC79DD94AA58A9DF081 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		AB95DD75FB694625857BBDC6 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.m */ = {isa = PBXBuildFile; fileRef = 6250EA87B8F94979BD5975CB /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.m */; };
+		B1CFD2959AEC43909280D3D0 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.c */ = {isa = PBXBuildFile; fileRef = 7C2C27FA5C83424C9C44BBB6 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.c */; };
+		B5C3A36844ED4E29A6F78F5D /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/window.c */ = {isa = PBXBuildFile; fileRef = 10C4CBB1A94449979FC910D2 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/window.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		BC638FE7EC354F34885F1A3A /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_window.m */ = {isa = PBXBuildFile; fileRef = EABE4AC0F25A454FB54C2329 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_window.m */; };
+		C401A9CDC9434EDEAA0CFD96 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_init.m */ = {isa = PBXBuildFile; fileRef = 70BE2C4DE88F477D967571DE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_init.m */; };
+		CA16E357221B43C488B87834 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/vulkan.c */ = {isa = PBXBuildFile; fileRef = D65D23E742144895B80E0C68 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/vulkan.c */; settings = {COMPILER_FLAGS = "-Wdeclaration-after-statement"; }; };
+		D20CCA040B384C9DB7B65F8E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_monitor.m */ = {isa = PBXBuildFile; fileRef = DDC7FA52C1634C9993DCFA68 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_monitor.m */; };
+		EACABF7DB4FC418F95CD1592 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/internal.h */ = {isa = PBXBuildFile; fileRef = B6F7665F71674CACBE305D46 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/internal.h */; };
+		EB73F34C9C64448FA1B60F98 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src/glfw_config.h */ = {isa = PBXBuildFile; fileRef = 7A10E2FFDDA54B57AB34C94F /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src/glfw_config.h */; };
+		FB50D00F9F16490BAF9CC3C6 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_platform.h */ = {isa = PBXBuildFile; fileRef = 701B5E29DD234FB78DA215F9 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_platform.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXBuildStyle section */
+		182AC930F2AA494C8368CCC8 /* Release */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Release;
+		};
+		BE566DD2F8A64CDE853A7CE9 /* MinSizeRel */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = MinSizeRel;
+		};
+		C8DF978125994034B64AEEDE /* RelWithDebInfo */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = RelWithDebInfo;
+		};
+		D511EDFD9D9C475F84EF8F2E /* Debug */ = {
+			isa = PBXBuildStyle;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+/* End PBXBuildStyle section */
+
+/* Begin PBXContainerItemProxy section */
+		025912EA291A4D42A39DBFFD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1921DEF65E047639D9A4C23 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8E1C81ADDB554E229204B5F6;
+			remoteInfo = ALL_BUILD;
+		};
+		9221A7D708A14328ACB8BBCF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1921DEF65E047639D9A4C23 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CB7E87A9D7AB4A13A11CDBAC;
+			remoteInfo = ZERO_CHECK;
+		};
+		99BB5511DFC84B469CF94A5E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1921DEF65E047639D9A4C23 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CB7E87A9D7AB4A13A11CDBAC;
+			remoteInfo = ZERO_CHECK;
+		};
+		BA7F2E143E4F4859B0EF86A9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F1921DEF65E047639D9A4C23 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = EF5BCC49B3C54E20AEF73B68;
+			remoteInfo = glfw;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		10C4CBB1A94449979FC910D2 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/window.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = window.c; path = src/window.c; sourceTree = SOURCE_ROOT; };
+		19E5B4AD21CB4DDEBC7392DE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/input.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = input.c; path = src/input.c; sourceTree = SOURCE_ROOT; };
+		1FC795E2688A4784994CF5E5 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		2BF4DC8F6D044FE09ED13B3C /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/mappings.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = mappings.h; path = src/mappings.h; sourceTree = SOURCE_ROOT; };
+		38B36A1C6E9247DFB82B3D6E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = posix_thread.h; path = src/posix_thread.h; sourceTree = SOURCE_ROOT; };
+		51B5CA71225A48589C8C2EFC /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3native.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = glfw3native.h; path = include/GLFW/glfw3native.h; sourceTree = SOURCE_ROOT; };
+		614466B3D0C044A592F263E4 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = osmesa_context.c; path = src/osmesa_context.c; sourceTree = SOURCE_ROOT; };
+		6250EA87B8F94979BD5975CB /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.m */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; fileEncoding = 4; name = nsgl_context.m; path = src/nsgl_context.m; sourceTree = SOURCE_ROOT; };
+		62C1785D95B1416F8F331CB8 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/monitor.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = monitor.c; path = src/monitor.c; sourceTree = SOURCE_ROOT; };
+		634DEFCDE23A434194DE9618 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.m */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; fileEncoding = 4; name = cocoa_joystick.m; path = src/cocoa_joystick.m; sourceTree = SOURCE_ROOT; };
+		701B5E29DD234FB78DA215F9 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_platform.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = cocoa_platform.h; path = src/cocoa_platform.h; sourceTree = SOURCE_ROOT; };
+		70BE2C4DE88F477D967571DE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_init.m */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; fileEncoding = 4; name = cocoa_init.m; path = src/cocoa_init.m; sourceTree = SOURCE_ROOT; };
+		7A10E2FFDDA54B57AB34C94F /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src/glfw_config.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = glfw_config.h; path = debug/src/glfw_config.h; sourceTree = SOURCE_ROOT; };
+		7C2C27FA5C83424C9C44BBB6 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = posix_thread.c; path = src/posix_thread.c; sourceTree = SOURCE_ROOT; };
+		84FB0A8CF803407F8AA6C9EA /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = osmesa_context.h; path = src/osmesa_context.h; sourceTree = SOURCE_ROOT; };
+		8F7A28EE71B84617A078923F /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = src/CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		95D51F32C28041B9BBC5EAC8 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/CMakeLists.txt */ = {isa = PBXFileReference; explicitFileType = sourcecode.text; fileEncoding = 4; name = CMakeLists.txt; path = CMakeLists.txt; sourceTree = SOURCE_ROOT; };
+		961D39EC18DB43F9A01CA2A7 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = glfw3.h; path = include/GLFW/glfw3.h; sourceTree = SOURCE_ROOT; };
+		9AA83246B9A146D1A4B723DB /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = cocoa_joystick.h; path = src/cocoa_joystick.h; sourceTree = SOURCE_ROOT; };
+		AA1E2EBA875547A0974A3E70 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = nsgl_context.h; path = src/nsgl_context.h; sourceTree = SOURCE_ROOT; };
+		AE804CC79DD94AA58A9DF081 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = egl_context.c; path = src/egl_context.c; sourceTree = SOURCE_ROOT; };
+		AE9AD34CDC71493F8BDF1D6E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/context.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = context.c; path = src/context.c; sourceTree = SOURCE_ROOT; };
+		B6F7665F71674CACBE305D46 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/internal.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = internal.h; path = src/internal.h; sourceTree = SOURCE_ROOT; };
+		C4CC9467CFF448B982353780 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_time.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = cocoa_time.c; path = src/cocoa_time.c; sourceTree = SOURCE_ROOT; };
+		D65D23E742144895B80E0C68 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/vulkan.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = vulkan.c; path = src/vulkan.c; sourceTree = SOURCE_ROOT; };
+		DDC7FA52C1634C9993DCFA68 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_monitor.m */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; fileEncoding = 4; name = cocoa_monitor.m; path = src/cocoa_monitor.m; sourceTree = SOURCE_ROOT; };
+		E1B16BFC967B47858D43AB35 /* glfw */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libglfw3.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		EABE4AC0F25A454FB54C2329 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_window.m */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.objc; fileEncoding = 4; name = cocoa_window.m; path = src/cocoa_window.m; sourceTree = SOURCE_ROOT; };
+		F7F468C2BCC64C1A826EBCB2 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/init.c */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.c; fileEncoding = 4; name = init.c; path = src/init.c; sourceTree = SOURCE_ROOT; };
+		F860DE2E7F7C4DB780C94336 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = egl_context.h; path = src/egl_context.h; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		136306AA65FD4887B9E1ECF1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E1B16BFC967B47858D43AB35 /* glfw */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		151B9C361C6A4098953D1905 /* uninstall */ = {
+			isa = PBXGroup;
+			children = (
+				C95383A1644B48D7851DA717 /* CMake Rules */,
+				1FC795E2688A4784994CF5E5 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/CMakeLists.txt */,
+			);
+			name = uninstall;
+			sourceTree = "<group>";
+		};
+		19905BEF81034048BC7E1409 /* Source Files */ = {
+			isa = PBXGroup;
+			children = (
+				70BE2C4DE88F477D967571DE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_init.m */,
+				634DEFCDE23A434194DE9618 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.m */,
+				DDC7FA52C1634C9993DCFA68 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_monitor.m */,
+				C4CC9467CFF448B982353780 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_time.c */,
+				EABE4AC0F25A454FB54C2329 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_window.m */,
+				AE9AD34CDC71493F8BDF1D6E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/context.c */,
+				AE804CC79DD94AA58A9DF081 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.c */,
+				F7F468C2BCC64C1A826EBCB2 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/init.c */,
+				19E5B4AD21CB4DDEBC7392DE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/input.c */,
+				62C1785D95B1416F8F331CB8 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/monitor.c */,
+				6250EA87B8F94979BD5975CB /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.m */,
+				614466B3D0C044A592F263E4 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.c */,
+				7C2C27FA5C83424C9C44BBB6 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.c */,
+				D65D23E742144895B80E0C68 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/vulkan.c */,
+				10C4CBB1A94449979FC910D2 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/window.c */,
+			);
+			name = "Source Files";
+			sourceTree = "<group>";
+		};
+		205A3E5E5FD147158E9FCFD8 /* GLFW3 */ = {
+			isa = PBXGroup;
+			children = (
+				151B9C361C6A4098953D1905 /* uninstall */,
+				CE2DFDFD2F984322A170EFEF /* glfw */,
+			);
+			name = GLFW3;
+			sourceTree = "<group>";
+		};
+		536D21360E6147A4B2D30504 /* Header Files */ = {
+			isa = PBXGroup;
+			children = (
+				7A10E2FFDDA54B57AB34C94F /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src/glfw_config.h */,
+				961D39EC18DB43F9A01CA2A7 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3.h */,
+				51B5CA71225A48589C8C2EFC /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include/GLFW/glfw3native.h */,
+				9AA83246B9A146D1A4B723DB /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.h */,
+				701B5E29DD234FB78DA215F9 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_platform.h */,
+				F860DE2E7F7C4DB780C94336 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.h */,
+				B6F7665F71674CACBE305D46 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/internal.h */,
+				2BF4DC8F6D044FE09ED13B3C /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/mappings.h */,
+				AA1E2EBA875547A0974A3E70 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.h */,
+				84FB0A8CF803407F8AA6C9EA /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.h */,
+				38B36A1C6E9247DFB82B3D6E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.h */,
+			);
+			name = "Header Files";
+			sourceTree = "<group>";
+		};
+		A228B2D1C8C34CA691284D0D = {
+			isa = PBXGroup;
+			children = (
+				205A3E5E5FD147158E9FCFD8 /* GLFW3 */,
+				DEDAA286C4B24E47860DFD4C /* ALL_BUILD */,
+				136306AA65FD4887B9E1ECF1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BACDA8949B0540CEBD88BECD /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		C95383A1644B48D7851DA717 /* CMake Rules */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = "CMake Rules";
+			sourceTree = "<group>";
+		};
+		CE2DFDFD2F984322A170EFEF /* glfw */ = {
+			isa = PBXGroup;
+			children = (
+				19905BEF81034048BC7E1409 /* Source Files */,
+				536D21360E6147A4B2D30504 /* Header Files */,
+				8F7A28EE71B84617A078923F /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/CMakeLists.txt */,
+			);
+			name = glfw;
+			sourceTree = "<group>";
+		};
+		DEDAA286C4B24E47860DFD4C /* ALL_BUILD */ = {
+			isa = PBXGroup;
+			children = (
+				BACDA8949B0540CEBD88BECD /* CMake Rules */,
+				95D51F32C28041B9BBC5EAC8 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/CMakeLists.txt */,
+			);
+			name = ALL_BUILD;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EF5BCC49B3C54E20AEF73B68 /* glfw */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B173281184274D4A8AE67062 /* Build configuration list for PBXNativeTarget "glfw" */;
+			buildPhases = (
+				5BEA0FF4D1744413858FE45F /* Sources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = glfw;
+			productName = glfw;
+			productReference = E1B16BFC967B47858D43AB35 /* glfw */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F1921DEF65E047639D9A4C23 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = YES;
+				LastUpgradeCheck = 1030;
+			};
+			buildConfigurationList = AA9827E0DCFD4A1B9CBA65E7 /* Build configuration list for PBXProject "GLFW" */;
+			buildSettings = {
+			};
+			buildStyles = (
+				D511EDFD9D9C475F84EF8F2E /* Debug */,
+				182AC930F2AA494C8368CCC8 /* Release */,
+				BE566DD2F8A64CDE853A7CE9 /* MinSizeRel */,
+				C8DF978125994034B64AEEDE /* RelWithDebInfo */,
+			);
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = A228B2D1C8C34CA691284D0D;
+			projectDirPath = ../;
+			projectRoot = "";
+			targets = (
+				8E1C81ADDB554E229204B5F6 /* ALL_BUILD */,
+				CB7E87A9D7AB4A13A11CDBAC /* ZERO_CHECK */,
+				EF5BCC49B3C54E20AEF73B68 /* glfw */,
+				76CD7A27891E4F4FA8BC6F5D /* install */,
+				E9DC780F5C5B4C56912DA08B /* uninstall */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1AC3E2C752A24A0190BE8EB8 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug -f /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeScripts/uninstall_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		2D477390C0C8420381FAA965 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug -f /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeScripts/ALL_BUILD_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		6285459865714F37BB000188 /* CMake PostBuild Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake PostBuild Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug -f /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeScripts/install_postBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		65DDFE128C3F4AA3999FB52B = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		679C5639C9F342D1B7585E75 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		A253C50393D640A281B25D80 /* CMake Rules */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "CMake Rules";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "make -C /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug -f /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/CMakeScripts/ZERO_CHECK_cmakeRulesBuildPhase.make$CONFIGURATION OBJDIR=$(basename \"$OBJECT_FILE_DIR_normal\") all";
+			showEnvVarsInLog = 0;
+		};
+		AAFF5425FA0E44CB9E47FC08 = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+		ED82DB54FCAA424AB8C72E7F = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# shell script goes here
+exit 0";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5BEA0FF4D1744413858FE45F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C401A9CDC9434EDEAA0CFD96 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_init.m */,
+				A1C0D411E10B4E42A243B309 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_joystick.m */,
+				D20CCA040B384C9DB7B65F8E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_monitor.m */,
+				39D0266084904644923EE72E /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_time.c */,
+				BC638FE7EC354F34885F1A3A /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/cocoa_window.m */,
+				0256ADC06F75453FBCF6CFE7 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/context.c */,
+				A3B22013E6624BB3AE1CE40A /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/egl_context.c */,
+				9FC92FA5662A40F48281EDCE /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/init.c */,
+				42B5C4E72C364633B43AE59B /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/input.c */,
+				7AE29E0CAB804692A69F9644 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/monitor.c */,
+				AB95DD75FB694625857BBDC6 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/nsgl_context.m */,
+				50F696E718EE40649A384227 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/osmesa_context.c */,
+				B1CFD2959AEC43909280D3D0 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/posix_thread.c */,
+				CA16E357221B43C488B87834 /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/vulkan.c */,
+				B5C3A36844ED4E29A6F78F5D /* /Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src/window.c */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6BFEE370083C4566B917D57F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = EF5BCC49B3C54E20AEF73B68 /* glfw */;
+			targetProxy = BA7F2E143E4F4859B0EF86A9 /* PBXContainerItemProxy */;
+		};
+		7C3617406A73489AAD9F462E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8E1C81ADDB554E229204B5F6 /* ALL_BUILD */;
+			targetProxy = 025912EA291A4D42A39DBFFD /* PBXContainerItemProxy */;
+		};
+		888B83FAB4A5480981FDE0E9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CB7E87A9D7AB4A13A11CDBAC /* ZERO_CHECK */;
+			targetProxy = 9221A7D708A14328ACB8BBCF /* PBXContainerItemProxy */;
+		};
+		DE29A4F5D2F343F9AF65A8E3 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CB7E87A9D7AB4A13A11CDBAC /* ZERO_CHECK */;
+			targetProxy = 99BB5511DFC84B469CF94A5E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		0D433AB4E4394E7AB6D9A09D /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		115E1F62F9C7417EA6F4713D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = install;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+		1B98B10483134E73B7DF48E5 /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		4276AA8C1B2D4BF8BC8AB3B9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",_GLFW_USE_CONFIG_H);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/Users/wangyingjian/desktop/main/lib/csce441/glm,"/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				OTHER_CFLAGS = "    -DNDEBUG -fPIC -Wall '-std=gnu99'  ";
+				OTHER_LIBTOOLFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = glfw3;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+		4693CD7123BE4DAEA873D304 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk;
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/build";
+			};
+			name = Release;
+		};
+		595A15B565FC4F50AE6262F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = uninstall;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		67C534CCDF4947E6B93C16B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk;
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/build";
+			};
+			name = Debug;
+		};
+		6ADBE7A177804BADA0761FB0 /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = uninstall;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		7019CC98540C4C88844AF3FD /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = install;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		7134262E97C1493D8F83E02D /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		80EC4C25C7B043D8896285D1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = uninstall;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+		8989E26C544446C685623E6E /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 2;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",_GLFW_USE_CONFIG_H);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/Users/wangyingjian/desktop/main/lib/csce441/glm,"/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				OTHER_CFLAGS = "       -DNDEBUG -fPIC -Wall '-std=gnu99'  ";
+				OTHER_LIBTOOLFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = glfw3;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		8DE658C19AE1431AA69D236C /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		9846668594AE446FA32DA4A5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+		9AFDC68BEEF54A33B1DE705E /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = s;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",_GLFW_USE_CONFIG_H);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/Users/wangyingjian/desktop/main/lib/csce441/glm,"/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				OTHER_CFLAGS = "    -DNDEBUG -fPIC -Wall '-std=gnu99'  ";
+				OTHER_LIBTOOLFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = glfw3;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = MinSizeRel;
+		};
+		9DA1F86A3B444D18B1AFA6D9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				EXECUTABLE_PREFIX = lib;
+				EXECUTABLE_SUFFIX = .a;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'",_GLFW_USE_CONFIG_H);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				HEADER_SEARCH_PATHS = (/Users/wangyingjian/desktop/main/lib/csce441/glm,"/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/include","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/src","/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src");
+				INSTALL_PATH = "";
+				LIBRARY_STYLE = STATIC;
+				OTHER_CFLAGS = "   -fPIC -Wall '-std=gnu99'  ";
+				OTHER_LIBTOOLFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = glfw3;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/src";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		A1186739AB4C48E6A9616ED5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ALL_BUILD;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		A4CA19C4F2124CC1B9EDE897 /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = uninstall;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		AA47F07C11F74401AC2844BD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Release;
+		};
+		B0F25B5776E943AB9A531E2C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = ZERO_CHECK;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		CBD783DB87DA47B9846C9ABE /* MinSizeRel */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk;
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/build";
+			};
+			name = MinSizeRel;
+		};
+		EE6873DF0F0B468F8623457C /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = install;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = RelWithDebInfo;
+		};
+		F0F48120E9AF40D38D6B02E1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = ("'CMAKE_INTDIR=\"$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)\"'");
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				INSTALL_PATH = "";
+				OTHER_LDFLAGS = " ";
+				OTHER_REZFLAGS = "";
+				PRODUCT_NAME = install;
+				SECTORDER_FLAGS = "";
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug";
+				USE_HEADERMAP = NO;
+				WARNING_CFLAGS = ("-Wmost","-Wno-four-char-constants","-Wno-unknown-pragmas","$(inherited)");
+			};
+			name = Debug;
+		};
+		F62A85A09DC14BC985F6A4FB /* RelWithDebInfo */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk;
+				SYMROOT = "/Users/wangyingjian/desktop/main/lib/csce441/glfw-3.3.2/debug/build";
+			};
+			name = RelWithDebInfo;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2EA4CCB2E51B45C6BB59A1B5 /* Build configuration list for PBXAggregateTarget "ZERO_CHECK" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B0F25B5776E943AB9A531E2C /* Debug */,
+				AA47F07C11F74401AC2844BD /* Release */,
+				1B98B10483134E73B7DF48E5 /* MinSizeRel */,
+				0D433AB4E4394E7AB6D9A09D /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		4992712836224347BFE6F9D4 /* Build configuration list for PBXAggregateTarget "install" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F0F48120E9AF40D38D6B02E1 /* Debug */,
+				115E1F62F9C7417EA6F4713D /* Release */,
+				7019CC98540C4C88844AF3FD /* MinSizeRel */,
+				EE6873DF0F0B468F8623457C /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		85F6DC53AD464BA785A37652 /* Build configuration list for PBXAggregateTarget "ALL_BUILD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A1186739AB4C48E6A9616ED5 /* Debug */,
+				9846668594AE446FA32DA4A5 /* Release */,
+				8DE658C19AE1431AA69D236C /* MinSizeRel */,
+				7134262E97C1493D8F83E02D /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		AA9827E0DCFD4A1B9CBA65E7 /* Build configuration list for PBXProject "GLFW" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				67C534CCDF4947E6B93C16B0 /* Debug */,
+				4693CD7123BE4DAEA873D304 /* Release */,
+				CBD783DB87DA47B9846C9ABE /* MinSizeRel */,
+				F62A85A09DC14BC985F6A4FB /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B173281184274D4A8AE67062 /* Build configuration list for PBXNativeTarget "glfw" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9DA1F86A3B444D18B1AFA6D9 /* Debug */,
+				4276AA8C1B2D4BF8BC8AB3B9 /* Release */,
+				9AFDC68BEEF54A33B1DE705E /* MinSizeRel */,
+				8989E26C544446C685623E6E /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		DC26E4ED6EB542F5A466FAD3 /* Build configuration list for PBXAggregateTarget "uninstall" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				595A15B565FC4F50AE6262F2 /* Debug */,
+				80EC4C25C7B043D8896285D1 /* Release */,
+				6ADBE7A177804BADA0761FB0 /* MinSizeRel */,
+				A4CA19C4F2124CC1B9EDE897 /* RelWithDebInfo */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F1921DEF65E047639D9A4C23 /* Project object */;
+}

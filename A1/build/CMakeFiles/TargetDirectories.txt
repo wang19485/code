@@ -1,0 +1,3 @@
+/Users/wangyingjian/desktop/main/A1/build/CMakeFiles/A1.dir
+/Users/wangyingjian/desktop/main/A1/build/CMakeFiles/ALL_BUILD.dir
+/Users/wangyingjian/desktop/main/A1/build/CMakeFiles/ZERO_CHECK.dir

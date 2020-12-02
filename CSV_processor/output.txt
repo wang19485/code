@@ -1,0 +1,111 @@
+calvin sobocinski -- T450
+henry gibson -- T520
+kyle pinkin -- T534
+matthew poon -- T535
+maya tabron -- T278
+hannah davidson -- T55
+avry stroeve -- T541
+derek yerich -- T130
+alex kasper -- T22
+ethan mackley -- T29
+ryan viehweger -- T44
+ashley trevino -- T396
+jay meyers -- T32
+ethan ruiz -- T537
+natalie stone -- T297
+nikki bechtold -- T6
+sydney kheng -- T24
+will dundon -- T221
+lucas carvalho -- T512
+haakan rodd -- T118
+eytan markman-raffeld -- T292
+kacey johnson -- T21
+mila lusso -- T291
+jack gilhooly -- T412
+emily knutte -- T492
+lee settlemoir -- T82
+zach butler -- T9
+turner channell -- T11
+natalie kowaliuk -- T399
+erica carlos perez -- T93
+isabel vega -- T87
+erin miller -- T78
+grace vaughn -- T127
+emma miller -- T114
+doha shahba -- T42
+radhika dave -- T361
+seth tischman -- T299
+mariah lefford -- T75
+alexandra freimark -- T519
+miranda showen -- T471
+ava bowman -- T52
+braham duncan -- T515
+reese gautsche -- T101
+brandon lam -- T366
+anette casas -- T359
+allison falco -- T144
+leda sugnet -- T498
+saunders carlson -- T94
+lauren steiner -- T167
+chelsea bandi -- T419
+megan starkey -- T573
+spencer abbott -- T504
+lindsey mills -- T469
+kate indart -- T67
+emma tillotson -- T124
+roy park -- T35
+hailey block -- T50
+
+Total match: 57
+
+<<<<<<<<<<<<<<<<<<<< Copy the scripts below separately >>>>>>>>>>>>>>>>>>>>
+
+T450,T520,T534,T535,T278,T55,T541,T130,T22,T29,T44,T396,T32,T537,T297,T6,T24,T221,T512,T118,T292,T21,T291,T412,T492,T82,T9,T11,T399,T93,T87
+
+T78,T127,T114,T42,T361,T299,T75,T519,T471,T52,T515,T101,T366,T359,T144,T498,T94,T167,T419,T573,T504,T469,T67,T124,T35,T50
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Total number: 88
+
+Number of person whose time is not enough: 2
+
+Person whose time is not enough (cell numbers are based on weekly report): 
+
+adam vagle -- A56
+Khushang Hirpara Hirpara -- A89
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Number whose information not matched: 29
+
+Person whose Name, Email and ID are not matched (cell numbers are based on weekly report): 
+
+andrea straccia -- A2
+rick j. wilson -- A4
+ben linnenkamp -- A5
+gg gg -- A9
+rebecca aker -- A10
+lulu yuan -- A11
+grant blake -- A12
+jaden ernst -- A13
+spencer schaefer -- A14
+tavin way -- A18
+matt adelman -- A26
+patrick cassidy -- A30
+dylan ladd -- A38
+reagan burckhardt -- A39
+frank lynch -- A45
+tayden kuhn -- A55
+chris besterman -- A57
+davis motl -- A69
+taughfeek mcdonald -- A71
+jacob baer -- A72
+adam petro -- A76
+nathan soto -- A79
+bradley hostetler -- A81
+ian kelley -- A82
+alfred schweikert -- A83
+jake kremers -- A84
+saif qubain -- A86
+tyler akerley -- A87
+morgan morgan -- A88
+
